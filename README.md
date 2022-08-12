@@ -8,7 +8,7 @@
 
 ## Screenshot <a name = "ScreenShot"></a>
 
-![Screenshot](./Assets/Images/Professional Portfolio Screenshot.png)
+![Screenshot](./Assets/Images/Professional-Portfolio-Screenshot.png)
 
 ## Description <a name = "Description"></a>
 
