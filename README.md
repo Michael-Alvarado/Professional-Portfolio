@@ -1,4 +1,4 @@
-# Weekly Challenge 2 - Professional Portfolio
+# My Professional Portfolio
 
 ## Table of Contents
 
