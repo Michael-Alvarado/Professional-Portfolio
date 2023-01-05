@@ -194,6 +194,10 @@ a:visited:hover {
     padding: 0.5rem 0.4rem;
 }
 
+#spiel {
+    width: 50%;
+}
+
 /* using a mobile-first approach, use `min-width` values going from narrow -> wide for a responsive design */
 @media screen and (min-width: 768px) {
     /* on tablets, set columns to only be 50% of the width and not grow */
