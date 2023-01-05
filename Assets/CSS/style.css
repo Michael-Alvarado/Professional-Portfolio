@@ -195,7 +195,8 @@ a:visited:hover {
 }
 
 #spiel {
-    width: 50%;
+    max-width: 100%;
+    margin-left: 0;
 }
 
 /* using a mobile-first approach, use `min-width` values going from narrow -> wide for a responsive design */
@@ -211,6 +212,11 @@ a:visited:hover {
         flex-grow: 1;
     }
 
+    #spiel {
+        max-width: 90%;
+        margin-left: 5%;
+    }
+
 }
 
 /* media query for larger screens */
@@ -223,6 +229,11 @@ a:visited:hover {
     .first-frame {
         max-width: 60%;
         margin: auto;
+    }
+
+    #spiel {
+        max-width: 75%;
+        margin-left: 12.5%;
     }
 
 }
